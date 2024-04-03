@@ -1,13 +1,5 @@
 <h1>Solution</h1>
 
-Installation 
-#setup your redis db in your localhost acc to the port 
-
-clone: 
-<h3>path to wards your frontend</h3>
-npm install
-<h3>then path towards your backend</h3>
-npm install,
 npm start in two terminals 
 <h1>Enjoy the Game.</hh1>
 
